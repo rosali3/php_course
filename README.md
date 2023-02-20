@@ -2,6 +2,8 @@
 
 В файле card.html вы можете увидеть код алгоритма Луна
 
+можно использовать для валидации карт Мир, Visa и MasterCard
+
 По ссылочке вы можете посмотреть как оно работает
 https://drive.google.com/drive/folders/1CyEeTEx1UP857F-L9QmUb5D2wWDQVOxo
 и на фоточке как примерно выглядит
