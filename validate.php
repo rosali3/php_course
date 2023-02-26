@@ -76,7 +76,6 @@ class Validator
 
 }
 
-// $card = $argv[1];
 $overallresult = Validator::validate($card);
 echo $overallresult;
 ?>
